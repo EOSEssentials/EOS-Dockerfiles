@@ -2,4 +2,4 @@
 
 ### Dockerfile-icculusc
 
-This Dockerfile mounts no volumes, and doesn't come with a docker-compose.yml
+`Dockerfile` basic Dockerfile, installs required dependencies and runs the provided `build.sh` script *with no volumes* or *docker-compose.yml*
